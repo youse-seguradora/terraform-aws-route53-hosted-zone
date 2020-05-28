@@ -1,4 +1,4 @@
-module terraform-aws-iam
+module terraform-aws-route53-hosted-zone
 
 go 1.14
 
